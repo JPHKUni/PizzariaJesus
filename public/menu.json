@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Sabor da casa",
+    "ingredientes": "Molho caseiro, mussarela premium, manjericão fresco, azeite trufado e borda recheada.",
+    "preco": 45.90,
+    "imagem": "https://images.unsplash.com/photo-1513104890138-7c749659a591"
+  },
+  {
+    "id": 2,
+    "nome": "Calabresa",
+    "ingredientes": "Molho de tomate, mussarela, calabresa defumada artesanal e cebola roxa.",
+    "preco": 39.90,
+    "imagem": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee"
+  },
+  {
+    "id": 3,
+    "nome": "Quatro Queijos",
+    "ingredientes": "mussarela, provolone, gorgonzola, catupiry e orégano.",
+    "preco": 42.90,
+    "imagem": "https://images.unsplash.com/photo-1573821663912-569905455b1c"
+  }
+]
